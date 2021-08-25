@@ -33,3 +33,11 @@ Self attention is basically a combination of three convolutional layers. Two of 
 You can learn more about self attention here (https://arxiv.org/pdf/1805.08318.pdf)
 
 ![image](https://user-images.githubusercontent.com/47930821/130756911-2c41c37b-e2d8-4b27-91dc-c8c22655bb3d.png)
+
+---
+
+# FID score (frechet inception distance)
+This metric measures the distance between the InceptionV3 convolutional features' distribution between real and fake images. This metric has been widely used to see how far both distributions are. Therefore, the lower this metric, the better.
+
+
+You can learn more about FID metric here (https://arxiv.org/abs/1706.08500)
