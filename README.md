@@ -37,7 +37,7 @@ You can learn more about self attention here (https://arxiv.org/pdf/1805.08318.p
 ---
 
 # FID score (frechet inception distance)
-This metric measures the distance between the InceptionV3 convolutional features' distribution between real and fake images. This metric has been widely used to see how far both distributions are. Therefore, the lower this metric, the better.
+For assessing the quality of the generative models, this repo used FID score. This metric measures the distance between the InceptionV3 convolutional features' distribution between real and fake images. This metric has been widely used to see how far both distributions are. Therefore, the lower this metric, the better.
 
 
 You can learn more about FID metric here (https://arxiv.org/abs/1706.08500)
