@@ -1,5 +1,7 @@
 # DC-GAN
 
+
+
 # Projection Discrimination
 In conditional gans, it is useful to provide information about the class to the discriminator. There are multiple ways to do so, but the most efficient way is to have a dot product of the global sum pooling of the features with an embedding vector. Please note that every embedding vector is unique according to the class.
 
@@ -41,3 +43,8 @@ For assessing the quality of the generative models, this repo used FID score. Th
 
 
 You can learn more about FID metric here (https://arxiv.org/abs/1706.08500)
+
+
+# Results
+This image shows a batch of fake cars a
+![image](https://user-images.githubusercontent.com/47930821/132104844-8b58f2ea-13d5-4af8-9941-c76c1723797a.png)
