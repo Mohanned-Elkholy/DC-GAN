@@ -46,5 +46,6 @@ You can learn more about FID metric here (https://arxiv.org/abs/1706.08500)
 
 
 # Results
-This image shows a batch of fake cars a
+This image shows a batch of fake cars and real cars
+
 ![image](https://user-images.githubusercontent.com/47930821/132104844-8b58f2ea-13d5-4af8-9941-c76c1723797a.png)
